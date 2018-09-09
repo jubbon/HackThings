@@ -10,6 +10,11 @@ SkolTech, 07.09-09.09.2018
 
 ### IoT + Socium Intelligence
 
+---
+@title[SocimIntelligence]
+### Socium Intelligence
+
+Not Croud Intelligence!
 
 ---
 @title[Sarov]
@@ -28,6 +33,7 @@ SkolTech, 07.09-09.09.2018
 
 ---
 @title[DataSet]
+#### Набор данных
 - Ежедневно: около 400 тыс. отметок
 - Май-август 2018 года: 40 млн. отметок
 
