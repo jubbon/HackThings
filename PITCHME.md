@@ -148,7 +148,8 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 - Май-август 2018 года: 40 млн. отметок
 
 ---?video=https://www.youtube.com/watch?v=0pv001VbW8s&feature=youtu.be
-
+---?video=https://youtu.be/mpIAsFsaqw0
++++?video=https://youtu.be/srP1JEM9fCA
 ---
 @title[Buiseness:Goverment]
 
