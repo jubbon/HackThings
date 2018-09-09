@@ -10,7 +10,7 @@ SkolTech, 07.09-09.09.2018
 
 ### Функция потерь
 `\[
-L = \sum_{k=1}^N \left( 1 - \arctan(60 \sin( \frac{2 \pi (t-φ)}{T} ) + 0.5)) \right) + \lambda (T-T_0)^2
+L = \sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{T} ) + \gamma)) \right) + \lambda (T-T_0)^2
 \]`
 
 ---
