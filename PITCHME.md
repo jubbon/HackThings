@@ -39,6 +39,12 @@ SkolTech, 07.09-09.09.2018
 #### IoT + Socium Intelligence
 
 ---
+@title[MainIdea]
+
+### IoT
+Устройства GNSS (GPS/ГЛОНАСС/BeiDou/Gallileo)
+
+---
 @title[SociumIntelligence]
 ### Socium Intelligence
 
@@ -47,15 +53,12 @@ SkolTech, 07.09-09.09.2018
 меньшинство.
 
 ---
-@title[SociumIntelligence: Drivers]
-### Пример Socium Intelligence
----?image=assets/images/HackThings-01.jpeg&size=auto 90%&color=black @title[Drivers]
-
----
 @title[SocimIntelligence: Socium vs Croud]
 ### Socium Intelligence
 
 Is not ~~Croud Intelligence~~
+
+---?image=assets/images/HackThings-01.jpeg&size=auto 90%&color=black @title[SociumIntelligence: Drivers]
 
 ---
 @title[Law]
