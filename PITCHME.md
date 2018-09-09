@@ -170,7 +170,7 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 #### Единичная аномалия?
 ![BadDriver](assets/images/HackThings-04.jpg)
 
-
+---
 @title[Buiseness:Consumers 2]
 #### Множественные аномалии?
 ![BadTrafficLight](assets/images/HackThings-05.jpg)
