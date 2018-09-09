@@ -9,10 +9,12 @@ SkolTech, 07.09-09.09.2018
 @title[Goal]
 
 ## Цель
+@div[left-50 fragment]
 Превратить обычный светофор в интеллектуальный
+@divend
 
-@div[fragment]
-#### Но:
+@div[right-50 fragment]
+Но:
 - сам светофор не менять
 - ничего в него не добавлять
 @divend
