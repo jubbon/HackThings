@@ -14,7 +14,7 @@ SkolTech, 07.09-09.09.2018
 @title[SocimIntelligence]
 ### Socium Intelligence
 
-Not ~~Croud Intelligence~~
+Is not ~~Croud Intelligence~~
 
 ---
 @title[Sarov]
