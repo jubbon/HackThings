@@ -72,6 +72,12 @@ Is not ~~Croud Intelligence~~
 
 Создать математическую модель, минимизирующую число нарушителей проезда регулируемых перекрестков
 
+
+---
+@title[Model]
+### Математическая модель
+![Model](assets/images/HackThings-02.jpg)
+
 ---
 @title[ModelParams]
 
