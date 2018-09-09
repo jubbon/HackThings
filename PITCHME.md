@@ -6,6 +6,11 @@
 
 SkolTech, 07.09-09.09.2018
 ---
+@title[MainIdea]
+
+### IoT + Socium Intelligence
+
+---
 @title[Math]
 
 ### Функция потерь
