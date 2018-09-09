@@ -55,7 +55,7 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 
 ---
 @title[Thanks]
-### Спасибо за внимание
+# Спасибо за внимание
 
 Mail: kulikov@sarov.info
 
