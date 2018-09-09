@@ -3,3 +3,6 @@
 ### HackTrafficLights
 
 Дмитрий Куликов
+---
+@title[Thanks]
+### Спасибо за внимание
