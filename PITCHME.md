@@ -56,7 +56,7 @@ Skoltech, 07.09-09.09.2018
 @title[SocimIntelligence: Socium vs Croud]
 ## Socium Intelligence
 
-Is not ~~Croud Intelligence~~
+Это не ~~Croud Intelligence~~
 
 ---?image=assets/images/HackThings-01.jpeg&size=auto 90%&color=black @title[SociumIntelligence: Drivers]
 
