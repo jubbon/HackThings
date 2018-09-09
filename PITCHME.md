@@ -39,18 +39,23 @@ SkolTech, 07.09-09.09.2018
 #### IoT + Socium Intelligence
 
 ---
-@title[SocimIntelligence]
-### Socium Intelligence
-
-Is not ~~Croud Intelligence~~
-
----
 @title[SociumIntelligence]
 ### Socium Intelligence
 
-Направлено на получение знаний и инсайтов на основе поведения
+Направлено на получение знаний и инсайтов на основе данных о поведении
 индивидов в обществе, в котором "нарушителей" подавляющее
 меньшинство.
+
+---
+@title[SociumIntelligence: Drivers]
+### Пример Socium Intelligence
+---?image=assets/images/HackThings-01.jpeg&size=auto 90%&color=black @title[Drivers]
+
+---
+@title[SocimIntelligence: Socium vs Croud]
+### Socium Intelligence
+
+Is not ~~Croud Intelligence~~
 
 ---
 @title[Law]
