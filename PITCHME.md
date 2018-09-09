@@ -151,27 +151,27 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 ---?video=https://youtu.be/mpIAsFsaqw0
 +++?video=https://youtu.be/srP1JEM9fCA
 ---
+@title[Buiseness]
+# Применение
+
+---
 @title[Buiseness:Goverment]
-## Применение
 #### Моделирование транспортных потоков
 - Определение "узких" мест
 - Оптимизация работы совокупности светофорных объектов
 
 ---
 @title[Buiseness:Consumers 1]
-## Применение
 #### Зелёная улица
 ![Navigator](assets/images/HackThings-03.jpg)
 
 ---
 @title[Buiseness:Consumers 1]
-## Применение
 #### Единичная аномалия?
 ![BadDriver](assets/images/HackThings-04.jpg)
 
 
 @title[Buiseness:Consumers 2]
-## Применение
 #### Множественные аномалии?
 ![BadTrafficLight](assets/images/HackThings-05.jpg)
 
