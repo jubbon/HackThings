@@ -147,6 +147,8 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 - Ежедневно: около 400 тыс. отметок
 - Май-август 2018 года: 40 млн. отметок
 
+---?video=https://youtu.be/0pv001VbW8s
+
 ---
 @title[Buiseness:Goverment]
 
