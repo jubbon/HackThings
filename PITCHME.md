@@ -81,7 +81,6 @@ Is not ~~Croud Intelligence~~
 ---
 @title[Math 1]
 
-### Функция потерь
 `\[
 y(t) = \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{T} ) + \gamma))
 \]`
