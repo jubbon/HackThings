@@ -152,7 +152,7 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 +++?video=https://youtu.be/srP1JEM9fCA
 ---
 @title[Buiseness]
-# Применение
+### Применение
 
 ---
 @title[Buiseness:Goverment]
