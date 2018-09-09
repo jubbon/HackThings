@@ -85,9 +85,10 @@ Is not ~~Croud Intelligence~~
 y(t) = \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{T} ) + \gamma))
 \]`
 
-- >0 - проезда на разрешающий сигнал
-- 0  - проезд при смене сигнала
-- <0 - проезда на запрещающий сигнал
+Значение y:
+- **положительное** - проезд на разрешающий сигнал
+- **около 0**  - проезд при смене сигнала
+- **отрицательное** - проезд на запрещающий сигнал
 
 +++
 @title[Math 2]
@@ -165,7 +166,9 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 - Май-август 2018 года: 40 млн. отметок
 
 ---?video=https://www.youtube.com/watch?v=0pv001VbW8s&feature=youtu.be
+
 ---?video=https://youtu.be/mpIAsFsaqw0
+
 +++?video=https://youtu.be/srP1JEM9fCA
 
 ---
