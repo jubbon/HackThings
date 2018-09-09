@@ -173,11 +173,11 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 
 ---
 @title[Demo 2]
-![Demo1]https://www.youtube.com/embed/mpIAsFsaqw0)
+![Demo2](https://www.youtube.com/embed/mpIAsFsaqw0)
 
 +++
 @title[Demo 3]
-![Demo1]https://www.youtube.com/embed/srP1JEM9fCA)
+![Demo3](https://www.youtube.com/embed/srP1JEM9fCA)
 
 ---
 @title[Buiseness]
