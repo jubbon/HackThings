@@ -7,9 +7,10 @@
 SkolTech, 07.09-09.09.2018
 ---
 @title[Math]
+
+### Функция потерь
 `\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+L \eq \sum_{k=1}^N \left( 1 - arctg(60 * sin(2 \pi (t-t0) / T) + 0.5)) \right) + \lambda
 \]`
 
 ---
