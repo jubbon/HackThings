@@ -161,14 +161,13 @@ L = \frac{1}{N}\sum_{k=1}^N \left( 1 - \arctan(\alpha \sin( \frac{2 \pi (t-φ)}{
 @title[Buiseness:Consumers 1]
 ## Применение
 #### Зелёная улица
+![Navigator](assets/images/HackThings-02.jpg)
 
 ---
 @title[Buiseness:Consumers 1]
 ## Применение
 #### Единичная аномалия?
-Скорее всего, выявлен нарушитель при проезде перекрестка
-- Оперативное обнаружение неисправного или выключенного светофора
-  - Рекомендации начинающим водителям изменить маршрут
+
 
 @title[Buiseness:Consumers 2]
 ## Применение
